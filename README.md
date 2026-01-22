@@ -6,6 +6,12 @@ X-DSFormer, which integrates frequency modulation and wavelet sub-band guided du
 
 This repository will host the official implementation of **X-DSFormer**, Dual-domain synergy of frequency modulation and Wavelet sub-band guidance in an efficient Transformer for X-ray image denoising. The model integrates frequency modulation and wavelet sub-band guided dual-domain collaboration into an efficient Transformer framework to enhance X-ray image denoising performance. 
 
+## 📌 Highlights
+- 🔍 achieves 51.95 dB PSNR and 0.9956 SSIM in weld DR image denoising task.
+- ⚙️ Good generalization performance in CT slice denoising.
+- 📈 Key fine details are well preserved.
+- 🏭 While denoising, defect visibility is enhanced, demonstrating strong engineering application value.
+
 ## 📄 Paper
 The code, pre-trained models and dataset will be released once the corresponding paper is officially accepted.
 
