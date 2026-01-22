@@ -8,8 +8,8 @@ This repository will host the official implementation of **X-DSFormer**, Dual-do
 
 ## 📌 Highlights
 - 🔍 achieves 51.95 dB PSNR and 0.9956 SSIM in weld DR image denoising task.
+-  📈 A self-constructed paired noisy–reference weld DR image dataset.
 - ⚙️ Good generalization performance in CT slice denoising.
-- 📈 Key fine details are well preserved.
 - 🏭 While denoising, defect visibility is enhanced, demonstrating strong engineering application value.
 
 ## 📄 Paper
