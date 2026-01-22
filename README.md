@@ -13,7 +13,7 @@ This repository will host the official implementation of **X-DSFormer**, Dual-do
 - 🏭 While denoising, defect visibility is enhanced, demonstrating strong engineering application value.
 
 ## 📄 Paper
-The code, pre-trained models and dataset will be released once the corresponding paper is officially accepted.
+The model and data will be released once the corresponding paper is officially accepted.
 
 ## 📬 Stay Tuned
 Please ⭐ star this repository to stay updated. We’ll update with:
